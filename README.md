@@ -78,7 +78,7 @@
 
 ## 🌐 Connect With Me
 
-📧 Email: [your-email@example.com](mailto:durgaprasadmishra2020@gmail.com)
+📧 Email: [DurgaPrasadMishra](mailto:durgaprasadmishra2020@gmail.com)
 
 💼 LinkedIn: https://www.linkedin.com/in/durga-prasad-mishra-619899391/
 
