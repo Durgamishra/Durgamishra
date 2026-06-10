@@ -2,6 +2,7 @@
 
 ### 🚀 AI/ML Enthusiast | Full Stack Developer | Open Source Learner
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=🤖+AI+%26+Machine+Learning+Developer;💻+Full+Stack+Web+Developer;🚀+Creator+of+JSON+Data+Pro;☁️+Cloud+%26+DevOps+Learner;🔥+Building+Projects+That+Matter" alt="Typing SVG" />
 </p>
