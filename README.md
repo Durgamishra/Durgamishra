@@ -52,14 +52,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Durgamishra\&theme=tokyonight)
 
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Durgamishra\&theme=tokyonight\&row=1\&column=6)
-
----
-
 ## 🚀 Featured Project
 
 ### JSON Data Pro
