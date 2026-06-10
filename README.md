@@ -2,8 +2,11 @@
 
 ### 🚀 AI/ML Enthusiast | Full Stack Developer | Open Source Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Developer;Full+Stack+Web+Developer;Building+JSON+Data+Pro;Always+Learning+New+Technologies" />
+# Hi 👋, I'm Durga Mishra
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=🤖+AI+%26+Machine+Learning+Developer;💻+Full+Stack+Web+Developer;🚀+Creator+of+JSON+Data+Pro;☁️+Cloud+%26+DevOps+Learner;🔥+Building+Projects+That+Matter" alt="Typing SVG" />
+</p>
 ---
 
 ## 🌟 About Me
